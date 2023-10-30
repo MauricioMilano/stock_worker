@@ -1,11 +1,10 @@
-# RabbitMQ Worker Example
+# Stock Worker
 
-This Go application demonstrates a worker that interacts with RabbitMQ and consumes data from the Stooq API.
+This is a worker that interacts with RabbitMQ and consumes data from the Stooq API.
 
 ## Prerequisites
 
 - Go 1.21.3 or later
-- Docker (for running RabbitMQ and other dependencies)
 
 ## Usage
 
